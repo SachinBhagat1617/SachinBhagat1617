@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Bhagat;Full+Stack+Developer;Backend+Specialist+%7C+Java+%26+Spring+Boot;Competitive+Programmer+%7C+DSA+%26+CP;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
+<!-- Animated Coding Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/programmer.gif" width="300"/>
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -10,7 +15,7 @@
 - 🚀 Building **Scalable & Production-ready Applications**
 - 💻 Strong in **Java, Spring Boot, System Design, REST APIs**
 - 🌱 Currently improving **DSA & Competitive Programming**
-- 🤝 Looking for **SDE / Backend Developer roles**
+- 🤝 Looking for **SDE / Backend Developer Intern roles**
 - 📫 Reach me: **contactbhagatsachin@gmail.com**
 - 🔗 Portfolio: **https://portfolio2-0-lemon-one.vercel.app/**
 - 📄 Resume: **https://drive.google.com/file/d/1n3W-bKBjK7SLnPJMM_7BTSJKKm2Synsk/view**
@@ -49,7 +54,14 @@
 
 ---
 
-### 🏆 Competitive Programming
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinBhagat1617&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
+
+---
+
+### 🏁 Competitive Programming
 <p align="left">
 <a href="https://leetcode.com/sachinbhagat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
