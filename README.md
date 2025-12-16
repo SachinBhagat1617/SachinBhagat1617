@@ -19,7 +19,7 @@
 - 🧱 Building **Scalable & Production-ready Applications**
 - 💻 Strong in **Java, Spring Boot, System Design, REST APIs**
 - ☸️ Exploring **Kubernetes, Docker & Microservices**
-- 🧠 Learning **Learning GenAi**
+- 🧠 Learning **GenAi**
 - 🌱 Actively improving **DSA & Competitive Programming**
 - 🤝 Looking for **SDE / Backend Developer Intern roles**
 - 📫 Reach me: **contactbhagatsachin@gmail.com**
@@ -118,7 +118,7 @@
     <li>Backend development with <b>Java & Spring Boot</b></li>
     <li>REST APIs, Clean Architecture, Database Design</li>
     <li>Deploying apps using <b>Docker & Kubernetes</b></li>
-    <li>Getting started with <b>Deep Learning & NLP</b></li>
+    <li>Getting started with <b>GenAI</b></li>
   </ul>
 </details>
 
