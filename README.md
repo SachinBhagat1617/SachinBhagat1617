@@ -19,7 +19,7 @@
 - 🧱 Building **Scalable & Production-ready Applications**
 - 💻 Strong in **Java, Spring Boot, System Design, REST APIs**
 - ☸️ Exploring **Kubernetes, Docker & Microservices**
-- 🧠 Learning **Deep Learning & NLP (Neural Nets, Transformers)**
+- 🧠 Learning **Learning GenAi**
 - 🌱 Actively improving **DSA & Competitive Programming**
 - 🤝 Looking for **SDE / Backend Developer Intern roles**
 - 📫 Reach me: **contactbhagatsachin@gmail.com**
@@ -41,7 +41,7 @@
 - Designing **robust backend architectures** with Java & Spring Boot  
 - Orchestrating microservices with **Kubernetes**  
 - Practicing **DSA & CP** on LeetCode  
-- Learning **Neural Networks, Embeddings & NLP Fundamentals**  
+- Learning **GenAI**  
 
 ---
 
