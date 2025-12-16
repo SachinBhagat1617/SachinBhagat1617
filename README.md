@@ -2,7 +2,7 @@
 <table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Bhagat;Full+Stack+Developer;Backend+Specialist+%7C+Java+%26+Spring+Boot;Deep+Learning+%26+NLP+Learner;Always+Building+%26+Improving+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sachin+Bhagat;Full+Stack+Developer;Backend+Specialist+%7C+Java+%26+Spring+Boot;Always+Building+%26+Improving+%F0%9F%9A%80" />
 </p>
 
 
